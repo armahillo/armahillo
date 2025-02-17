@@ -1,6 +1,10 @@
-[![Holopin board](https://holopin.io/api/user/board?user=armahillo)](https://holopin.io/@armahillo)
+<!-- [![Holopin board](https://holopin.io/api/user/board?user=armahillo)](https://holopin.io/@armahillo) -->
 
-### Hi there 👋
+## Aaron H
+
+Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=armahillo)](https://git.io/streak-stats)
 
 <!--
 **armahillo/armahillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
