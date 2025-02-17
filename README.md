@@ -4,8 +4,7 @@
 
 Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=armahillo)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=armahillo&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://streak-stats.demolab.com?user=armahillo&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)
 <!--
 **armahillo/armahillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
